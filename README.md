@@ -149,8 +149,6 @@ PWKeeper was created as a practical project to demonstrate:
 - Password generator  
 - Auto-lock after inactivity  
 - Clipboard copy with timeout  
-- Export / Import  
-- Dark mode  
 
 ---
 
